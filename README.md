@@ -1,16 +1,26 @@
-## Hi there 👋
+### </> Olá! Eu sou o Pedro Henrique 👋 </>
 
-<!--
-**PedroHenriDEV/PedroHenriDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🗺️ Sou de Minas Gerais, BR
+💻 Faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)
+📍🎯 Atualmente focado em JS, CSS, Python e SQL
+👨‍💻 DEV Full-Stack em formação
+🚀 Focado a ter uma carreira de sucesso como DEV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](    https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-souzadev/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) ](https://www.instagram.com/peedrohenrique_00/)
+
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriDEV&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriDEV&layout=compact)
+
+### Linguagens e Ferramentas
+
+<div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+    <img align="center" alt="mySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+</div>
