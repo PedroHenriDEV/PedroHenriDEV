@@ -1,10 +1,10 @@
 ### </> Olá! Eu sou o Pedro Henrique 👋 </>
 
 
-🗺️ Sou de Minas Gerais, BR
-💻 Faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)
-📍🎯 Atualmente focado em JS, CSS, Python e SQL
-👨‍💻 DEV Full-Stack em formação
+🗺️ Sou de Minas Gerais, BR  <br>
+💻 Faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)<br>
+📍🎯 Atualmente focado em JS, CSS, Python e SQL<br>
+👨‍💻 DEV Full-Stack em formação<br>
 🚀 Focado a ter uma carreira de sucesso como DEV
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-souzadev/)
