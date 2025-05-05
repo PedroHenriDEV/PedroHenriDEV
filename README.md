@@ -1,15 +1,16 @@
 ### </> Olá! Eu sou o Pedro Henrique 👋 </>
 
+<div align=center>
+    🗺️ Sou de Minas Gerais, BR  <br>
+    💻 Faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)<br>
+    📍🎯 Atualmente focado em JS, CSS, Python e SQL<br>
+    👨‍💻 DEV Full-Stack em formação<br>
+    🚀 Focado a ter uma carreira de sucesso como DEV
+</div>
 
-🗺️ Sou de Minas Gerais, BR  <br>
-💻 Faço faculdade de ADS (Análise e Desenvolvimento de Sistemas)<br>
-📍🎯 Atualmente focado em JS, CSS, Python e SQL<br>
-👨‍💻 DEV Full-Stack em formação<br>
-🚀 Focado a ter uma carreira de sucesso como DEV
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-souzadev/)
 
-[![Linkedin](    https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-souzadev/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) ](https://www.instagram.com/peedrohenrique_00/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/peedrohenrique_00/)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriDEV&show_icons=true&theme=dracula)
 
