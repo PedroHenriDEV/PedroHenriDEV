@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre Mim:<br><br>Olá! Eu me chamo Pedrin, sou estudante de Desenvolvimento Web e estou construindo meu caminho no mundo da programação. Atualmente, estou focado em aprender HTML, CSS, JavaScript e Node.js, com o objetivo de criar sites funcionais e modernos.<br><br>Além dos estudos técnicos, também estou aprendendo inglês e buscando uma vida mais saudável, equilibrando rotina de estudos, trabalho e academia.<br>Meu objetivo é evoluir sempre e, em breve, contribuir com projetos reais e de código aberto.<br><br>Se quiser trocar uma ideia ou acompanhar minha evolução, fique à vontade para me seguir por aqui!</h3>
+<h3 align="left">👩‍💻  Sobre Mim:<br><br>Olá! Eu me chamo Pedro, sou estudante de Desenvolvimento Web e estou construindo meu caminho no mundo da programação. Atualmente, estou focado em aprender HTML, CSS, JavaScript e Node.js, com o objetivo de criar sites funcionais e modernos.<br><br>Além dos estudos técnicos, também estou aprendendo inglês e buscando uma vida mais saudável, equilibrando rotina de estudos, trabalho e academia.<br>Meu objetivo é evoluir sempre e, em breve, contribuir com projetos reais e de código aberto.<br><br>Se quiser trocar uma ideia ou acompanhar minha evolução, fique à vontade para me seguir por aqui!</h3>
 
 ###
 
